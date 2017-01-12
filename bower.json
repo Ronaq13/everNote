@@ -8,6 +8,7 @@
   "license": "MIT",
   "homepage": "index.html",
   "dependencies": {
-    "angular-material": "^1.1.1"
+    "angular-material": "^1.1.1",
+    "angular-ui-router": "^0.3.2"
   }
 }
