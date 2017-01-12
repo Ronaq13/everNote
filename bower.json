@@ -1,0 +1,13 @@
+{
+  "name": "everNote",
+  "authors": [
+    "Ronaq13 <raounaqsharma@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "angular-material": "^1.1.1"
+  }
+}
